@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#6c9fb7"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/what"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#67c8f5"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="50% off brownies\n@ Cakes and Purls"
+        android:textColor="#4b4b4b"
+        android:textSize="32dip" />
+
+    <TextView
+        android:id="@+id/when"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#225f7c"
+        android:padding="15dp"
+        android:text="Offer ends:..."
+        android:textColor="#ffffff"
+        android:textSize="35dip"
+        android:layout_gravity="center"
+        android:gravity="center" />
+    
+    
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:padding="10dp"
+        android:text="Share"
+        android:textColor="#ffffff"
+        android:textSize="25dip"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/getit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:padding="10dp"
+        android:text="I want it"
+        android:textColor="#ffffff"
+        android:textSize="25dip"
+        android:layout_gravity="center"
+        android:gravity="center" />
+    
+    
+
+    <TextView
+        android:id="@+id/where"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#515151"
+        android:padding="10dp"
+        android:text="2115 Allston Way, Berkeley"
+        android:textColor="#6c9fb7"
+        android:textSize="18dip"
+        android:layout_gravity="center"
+        android:gravity="center" />
+    
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#6c9fb7"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="15dp" >
+
+        <TextView
+        android:id="@+id/distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#6c9fb7"
+        android:padding="10dp"
+        android:text="5 minutes from your location"
+        android:textColor="#ffffff"
+        android:textSize="22dip" />
+        
+        
+        <ImageButton
+             android:id="@+id/navigate"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/navigate"
+            
+            android:background="#515151"/>
+    </LinearLayout>
+    
+    <fragment
+            android:id="@+id/map"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="25dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            class="com.google.android.gms.maps.SupportMapFragment" />
+
+    
+
+   
+
+</LinearLayout>
