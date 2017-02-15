@@ -2,7 +2,8 @@
 
 ## Note
 
-This was a demo app presented at UC Berkeley Play Conference Hackathon 2014 ```https://www.facebook.com/playconference/```
+This was a (demo) app presented at UC Berkeley Play Conference Hackathon 2014 ```https://www.facebook.com/playconference/```
+The app won 1st prize + Audience prize at the hackathon
 
 ## Description
 
