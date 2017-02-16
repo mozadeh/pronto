@@ -19,7 +19,7 @@ At the same time, we realized this could be a great channel for small business o
 
 - Push notification
 
-## Class structure
+## File structure
 
 ```
 /
