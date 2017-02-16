@@ -2,10 +2,12 @@
 
 ![alt tag](https://raw.githubusercontent.com/mozadeh/pronto/master/new_logo.jpg)
 
-## Note
+## Award
 
 This was a (demo) app presented at UC Berkeley Play Conference Hackathon 2014 ```https://www.facebook.com/playconference/```
 The app won 1st prize + Audience prize at the hackathon
+
+![alt tag](https://raw.githubusercontent.com/mozadeh/pronto/master/award.jpg)
 
 ## Description
 
