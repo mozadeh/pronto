@@ -1,5 +1,7 @@
 #Pronto
 
+![alt tag](https://raw.githubusercontent.com/mozadeh/pronto/master/new_logo.jpg)
+
 ## Note
 
 This was a (demo) app presented at UC Berkeley Play Conference Hackathon 2014 ```https://www.facebook.com/playconference/```
