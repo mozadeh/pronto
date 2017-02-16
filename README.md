@@ -11,6 +11,10 @@ Pronto is an hourly deals app that would enable the small business owners to get
 
 At the same time, we realized this could be a great channel for small business owners to get customers to come to their brick and mortar shops.
 
+## Libraries / Tutorials / APIs used
+
+- Android Push Notification Tutorial ```https://www.tutorialspoint.com/android/android_push_notification.htm```
+
 ## Key Features
 
 - Push notification
