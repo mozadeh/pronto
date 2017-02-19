@@ -6,7 +6,10 @@
 
 This was a prototype app presented at UC Berkeley Play Conference Hackathon 2014 ```https://www.facebook.com/playconference/```
 
+
 The app won 1st prize + Audience prize at the hackathon
+
+The team that won second place in Play 2014, Xendit, was accepted into Y-Combinator
 
 ![alt tag](https://raw.githubusercontent.com/mozadeh/pronto/master/award.jpg)
 
