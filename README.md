@@ -7,7 +7,7 @@
 This was a prototype app presented at UC Berkeley Play Conference Hackathon 2014 [https://www.facebook.com/playconference/](https://www.facebook.com/playconference/)
 
 
-The app won 1st prize + Audience prize at the hackathon
+Our product (Pronto) won 1st prize + Audience prize at the hackathon
 
 The team that won second place in Play 2014, Xendit, was accepted into Y-Combinator
 
@@ -26,6 +26,11 @@ At the same time, we realized this could be a great channel for small business o
 ## Key Features
 
 - Push notification
+
+- Clean user-interface
+
+- Flat layout
+
 
 ## File structure
 
